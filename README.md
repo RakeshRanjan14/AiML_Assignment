@@ -1,6 +1,8 @@
 # AiML_Assignment
 This is for Imperial College Business School AI ML assignment on Bayesian optimisation and gaussian
-Scope
+
+
+**Scope**
 
 There were 8 functions in scope , function were ranging from 2 to 8 dimension . sample initial data were provided for these function , Scope was to find the points which maximises the outputs of these 8 function . These functions were continuous and probabilistic.
 
